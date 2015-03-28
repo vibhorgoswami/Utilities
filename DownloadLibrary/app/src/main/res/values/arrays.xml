@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_library_links">
+        <item>http://date.jsontest.com</item>
+        <item>http://echo.jsontest.com/key/value/one/two</item>
+        <item>http://validate.jsontest.com/?json={"key":"value"}</item>
+    </string-array>
+</resources>
